@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               'Søren Øxenhave'
+tagline:             'ScrumMaster and Solution Architect at TimeLog'
+description:         'I''m a ScrumMaster and Solution Architect at <a href="http://www.timelog.com" target="_blank">TimeLog</a>. I help the team perform and ensures good code structures.'
+url:                 http://www.oexenhave.dk
+baseurl:             '/'
+paginate:            5
+
+# About/contact
+author:
+  name:              Søren Øxenhave
+  url:               https://twitter.com/oexenhave
+  email:             soeren@oexenhave.dk
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate, wdm]
