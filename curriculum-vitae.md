@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-sortorder: 9
+sortorder: 60
 ---
 
 ## ScrumMaster and Solution Architect at [TimeLog A/S](http://www.timelog.dk)
