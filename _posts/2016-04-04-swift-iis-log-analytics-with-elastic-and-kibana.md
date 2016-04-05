@@ -11,6 +11,8 @@ Each customer has their own IIS application, so we see almost identical URLs in 
 logs apart from the first subfolder which we refer to as shortname. We want to be able to track views 
 on each page across these sites and servers.
 
+<!--more-->
+
 From my point of view, Elastic is basically a big database that accepts all kinds of content and a small
 into big data analytics. However, my perception right now is that you have to think in terms of text 
 strings only to get the benefits. The API supports standard JSON so that is straight forward to use for

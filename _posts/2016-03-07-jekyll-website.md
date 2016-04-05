@@ -8,6 +8,8 @@ I have decided to abandon my existing website and start over. First of all, I ne
 It really needed a refresh. Elements needed to be removed, texts needed updating and I needed to rethink 
 what I needed it for. 
 
+<!--more-->
+
 I reconsidered the Umbraco platform. Did I really need it? Not really actually, I rarely used the backend
 for anything special. I hardly added any new content, even though I really want to get my blog going. If
 I should continue to use it, I needed to upgrade to the latest version of Umbraco (v7.4) just for good
