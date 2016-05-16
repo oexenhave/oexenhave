@@ -21,7 +21,8 @@ sortorder: 999
 - Kogebog - Alinea (Hardcover, ISBN 1580089283)
 - Kamerataske (LOWEPRO DSLR VIDEO FASTPACK 150 AW)
 - Grillstarter
-- Tapet og malingskraber ([f.eks.](http://www.bauhaus.dk/skraber-tapet-anza.html))
+- Gummistøvler str. 41
+- A5 notesbog uden linjer/tern, hardback
 - **De alt for store**:
 - Nikon D750
 - Nikon 70-200mm 2.8 VR2
@@ -39,3 +40,6 @@ sortorder: 999
 - Fiskars Ergonomic kultivator ([f.eks.](http://www.bauhaus.dk/kultivator-ergonomic-fiskars.html))
 - [Gardena sprøjtepistol](http://www.bauhaus.dk/haven/haveartikler/vandingsartikler/sprojtepistol-comfort-gardena.html)
 - [Gardena slangevogn](http://www.bauhaus.dk/haven/haveartikler/vandingsartikler/slangevogn-60hg-m-30m-slange-gardena.html)
+- Pæretræ (Sort: Concorde)
+- Kirsebærtræ
+- Kettlebell 12kg + 16kg + 20kg
