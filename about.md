@@ -11,7 +11,7 @@ In short: Positive. Dad. Amateur photographer. Happy. Computer wizard. Curious. 
 I'm a solution architect at TimeLog. I am located in Roskilde, Denmark. I was born July 2nd 1984. I have a great
  passion for technology and at the time being especially for web technology and integrations.
 
-I'm also a amateur photographer keen to learn new techniques both with the camera, but also post-processing the photos. 
+I'm also an amateur photographer keen to learn new techniques both with the camera, but also post-processing the photos. 
 If you need a photographer for an event please let me know. In my portfolio, I have photos from a huge 40-years
 birthday party and a couple of christening parties and 50th anniversaries - as well as a lot of personal family 
 parties and get-togethers.
