@@ -29,7 +29,9 @@ sortorder: 999
 - Boxershorts (str M)
 - Kroge til haveredskaber
 - Vaskeskind
-- [Fiskers ørnenæb](http://www.bauhaus.dk/grensaks-lille-hobby-fiskars.html))
+- [Fiskers ørnenæb](http://www.bauhaus.dk/grensaks-lille-hobby-fiskars.html)
+- [Jack&Jones Casual Sweatshirt med lynlås, sort, str. L](http://www.jackjones.com/dk/da/jj/sweatshirts/haettetroejer-med-lynlas/casual-sweatshirt-med-lynlas-12114955.html)
+- [Jack&Jones Merino-uld, sort, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
 - [HANSGROHE håndvaskarmatur Focus Krom](http://www.bauhaus.dk/vvs/badevaerelse/armaturer/hansgrohe-handvaskarmatur-focus-krom.html) eller lignende design
 - LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
 - Pæretræ (Sort: Conference)
