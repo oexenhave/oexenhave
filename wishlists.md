@@ -47,7 +47,7 @@ sortorder: 999
 - Microplane rivejern
 - Magretheskåle i farver (2L eller 3L)
 - Bradepande (f.eks. Scanpan i 35x24 cm)
-- Braun Blender (JB306Q)
+- Braun Blender (JB3060)
 - [Trip Trap Skærebræt 33x21](https://skagerak.dk/da/shop/skaerebraet-33x21)
 - Trip Trap - Årets nissepar 2016
 - [Philips Foodprocessor, 650W](http://www.wupti.com/produkter/husholdning/koekkenmaskine/foodprocessor/philips-foodprocessor-650w)
