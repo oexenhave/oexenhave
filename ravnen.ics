@@ -4,6 +4,10 @@ title: ravnen.ics
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
+NAME:Børnehuset Ravnen
+X-WR-CALNAME:Børnehuset Ravnen
+TIMEZONE-ID:Europe/Copenhagen
+X-WR-TIMEZONE:Europe/Copenhagen
 PRODID:-//Børnehuset Ravnen//NONSGML v1.0//DA{% for evt in site.data.ravnen_calendar %}
 BEGIN:VEVENT
 UID:ravnen@roskilde.dk
