@@ -22,7 +22,7 @@ sortorder: 999
 - Løvernes Konge (Blu-Ray)
 - Andet aldersvarende legetøj
 - Barbie dukke ting og tilbehør og en dukke
-- Brætspil 3-5 år ([f.eks. LilleStorm](http://www.bog-ide.dk/braetspil/til-hele-familien/lillestorm-i-toejskabet/p-313129/#!313129))
+- Brætspil 5-6 år
 - Der var engang - for de små (ISBN: 9788700149786)
 - Legehus...
 
@@ -34,14 +34,15 @@ sortorder: 999
 - [Stolehynde MOSELYNG 38x41x2,5cm sort](http://jysk.dk/indretning/stolehynder/stolehynde-moselyng-38x41x25cm-sort)
 - [Uge plans tavle fra Bilka](https://www.bilka.dk/fritid/glastavler-og-whiteboards/naga-glastavle-magnetisk-80x60-maanedsplan/p/100061754)
 - [MALM Kommode 6 skuffer, hvid](http://www.ikea.com/dk/da/catalog/products/10214557/)
+- Sengetøj i bomuld (2x2 meter, lukning med lynlås og helst ensfarvet)
 
 ### Sørens ønskeseddel
 
 - [Stærke magneter f.eks. typen Ludo](http://www.magnetz.dk/staerke-magneter-ludo-10-pak-i-farver-nova)
 - 15" plastik hjulkapsler
-- Boxershorts (str M)
+- Boxershorts fra Jack&Jones (str. M)
 - Vaskeskind
-- [Jack&Jones Merino-uld, sort, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
+- [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
 - LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
 - Pæretræ (Sort: Conference)
 - Kirsebærtræ (Sort: Stella eller Sunburst)
@@ -60,10 +61,7 @@ sortorder: 999
 - [Philips Foodprocessor, 650W](http://www.wupti.com/produkter/husholdning/koekkenmaskine/foodprocessor/philips-foodprocessor-650w)
 - Familiebrætspil (det kunne være [Ordet fanger](http://www.bog-ide.dk/braetspil/til-hele-familien/ordet-fanger/p-332324/#!332324))
 - Sølv øreringe (klassiske i form)
-- Skin tonic (fx Dr Hauschka Skintonic eller Raunsborg Nordic skin tonic fra Matas)
 - Skechers Sport Str. 40 (sko)
-- Sengetøj i bomuld (2x2 meter, lukning med lynlås og helst ensfarvet)
-- "Calendar Girl 2" af Audrey Carlan
 - "Calendar Girl 3" af Audrey Carlan
 - "Pigebørn" af Louisa M. Alcott
 - "Selfies" af Jussi Adler
