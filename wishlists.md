@@ -7,7 +7,7 @@ sortorder: 999
 ### Matteo ønskeseddel
 
 - [Beurer FT65 multi-termometer](https://www.whiteaway.com/personlig-pleje/helbred/termometer/product/beurer-ft65-multi-termometer/)
-- [Withings Home](http://www.withings.com/eu/en/store/details/70047701)
+- [Netgear Arlo Q VMC3040](https://www.proshop.dk/Netvaerkskamera/Netgear-Arlo-Q-VMC3040/2532815)
 - [KALLAX reol, hvid](http://www.ikea.com/dk/da/catalog/products/80275887/) + skuffeindsatser
 - [Sirius Bolette, Charcoal eller Ash](https://www.onskeborn.dk/webshop/m%C3%B8bler/lamper/sirius-bolette,-ash) eller lignende
 
@@ -17,6 +17,7 @@ sortorder: 999
 - [LEGO Disney Princess Palace Pets royalt slot](https://shopping.coop.dk/vare/disney-princess-palace-pets-royalt-slot-41142/5702015592284)
 - [LEGO Disney Princess Elsas glitrende slot](https://shopping.coop.dk/vare/disney-princess-elsas-glitrende-slot-41062/5702015352437)
 - [LEGO Disney Princess Anna og Kristoffers slædeeventyr](https://shopping.coop.dk/vare/disney-princess-anna-og-kristoffers-slaedeeventyr-41066/5702015591751)
+- LEGO Friends (ikke pizzaria og supermarket)
 - Tøj (str 116, støvede farver)
 - Trolls (Blu-Ray)
 - Løvernes Konge (Blu-Ray)
