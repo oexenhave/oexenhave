@@ -7,9 +7,12 @@ sortorder: 999
 ### Matteo ønskeseddel
 
 - [Beurer FT65 multi-termometer](https://www.whiteaway.com/personlig-pleje/helbred/termometer/product/beurer-ft65-multi-termometer/)
-- [Netgear Arlo Q VMC3040](https://www.proshop.dk/Netvaerkskamera/Netgear-Arlo-Q-VMC3040/2532815)
 - [KALLAX reol, hvid](http://www.ikea.com/dk/da/catalog/products/80275887/) + skuffeindsatser
-- [Sirius Bolette, Charcoal eller Ash](https://www.onskeborn.dk/webshop/m%C3%B8bler/lamper/sirius-bolette,-ash) eller lignende
+- [Karius og Baktus på bog](http://www.bog-ide.dk/billedboeger/thorbjoern-egner/karius-og-baktus/p-133230/#!149333)
+- Junior sengetøj
+- [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
+- [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
+- [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
 
 ### Sias ønskeseddel
 
@@ -18,6 +21,10 @@ sortorder: 999
 - [LEGO Disney Princess Elsas glitrende slot](https://shopping.coop.dk/vare/disney-princess-elsas-glitrende-slot-41062/5702015352437)
 - [LEGO Disney Princess Anna og Kristoffers slædeeventyr](https://shopping.coop.dk/vare/disney-princess-anna-og-kristoffers-slaedeeventyr-41066/5702015591751)
 - LEGO Friends (ikke pizzaria og supermarket)
+- Bøjlestang til udklædning
+- Prinsesseudklædningskjoler (5-6 år)
+- Spejl til væggen (min. 100x50cm)
+- [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
 - Tøj (str 116, støvede farver)
 - Trolls (Blu-Ray)
 - Løvernes Konge (Blu-Ray)
