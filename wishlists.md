@@ -13,6 +13,16 @@ sortorder: 999
 - [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
 - [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
 - [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
+- Tøj str. 62 eller 68 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
+- Vi arbejder på flere :)
+
+
+
+
+
+
+
+
 
 ### Sias ønskeseddel
 
