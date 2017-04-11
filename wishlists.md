@@ -13,18 +13,17 @@ sortorder: 999
 - [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
 - [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
 - [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
-- Tøj str. 62 eller 68 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
+- Tøj str. 68 eller 74 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
+- [Sophie la Girafe 18 cm](https://www.matas.dk/sophie-la-girafe-18-cm)
+- Arbejdsbiler fra BTOYS ([Forhandles f.eks. Babysam](http://www.babysam.dk/browseby/option/view/id/136))
+- [Hoppeko fra KREA](https://shopping.coop.dk/vare/krea-hoppeko-inkl-pumpe-sort-sjovt-hoppedyr-til-traening-af-barnets-motorik-og-balance/5707152020102)
+- [bObles Tumelesten i blå](http://www.babysam.dk/tumlesten-multi-blue)
+- [bObles Skumbold i blå](http://www.babysam.dk/legetoj/bolde/skumbold-15-cm-bla)
+- [IKEA Hampen tæppe i grå](http://www.ikea.com/dk/da/catalog/products/50313013/#/70313007)
+- Legetøj til badet
 - Vi arbejder på flere :)
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
+<!--
 ### Sias ønskeseddel
 
 - Puzzlespil (50+ brikker)
@@ -84,3 +83,4 @@ sortorder: 999
 - "Calendar Girl 3" af Audrey Carlan
 - "Pigebørn" af Louisa M. Alcott
 - "Selfies" af Jussi Adler
+-->
