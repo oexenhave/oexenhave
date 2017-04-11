@@ -26,6 +26,9 @@ sortorder: 999
 - Legetøj til badet
 - [Grå opbevarings kurve, 3 stk. - Done by deer](http://www.pixizoo.dk/gra-opbevarings-kurve-3-stk-done-by-deer)
 - [Legetøj fra Lilliputiens](https://www.lirumlarumleg.dk/pages/search-results-page?q=LILLIPUTIENS)
+- [Lilliputiens aktivitetsbog, Albert i Zoo](https://www.lirumlarumleg.dk/collections/legetoj/products/lilliputiens-aktivitetsbog-albert-i-zoo)
+- [Jellycat tøjdyr, f.eks. løve](https://www.lirumlarumleg.dk/collections/legetoj/products/jellycat-bamse-snagglebaggle-lawrence-love-35cm)
+- Hjælp/materialer/tegninger til at bygge et legehus
 - Vi arbejder på flere :)
 
 <!--
