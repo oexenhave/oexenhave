@@ -22,7 +22,7 @@ sortorder: 999
 - [Hoppeko fra KREA](https://shopping.coop.dk/vare/krea-hoppeko-inkl-pumpe-sort-sjovt-hoppedyr-til-traening-af-barnets-motorik-og-balance/5707152020102)
 - [bObles Tumelesten i blå](http://www.babysam.dk/tumlesten-multi-blue)
 - [bObles Skumbold i blå](http://www.babysam.dk/legetoj/bolde/skumbold-15-cm-bla)
-- [Skwish classic rangle]{https://www.lirumlarumleg.dk/collections/legetoj/products/skwish-classic-trae-rangle}
+- [Skwish classic rangle](https://www.lirumlarumleg.dk/collections/legetoj/products/skwish-classic-trae-rangle)
 - Legetøj til badet
 - [Grå opbevarings kurve, 3 stk. - Done by deer](http://www.pixizoo.dk/gra-opbevarings-kurve-3-stk-done-by-deer)
 - [Legetøj fra Lilliputiens](https://www.lirumlarumleg.dk/pages/search-results-page?q=LILLIPUTIENS)
