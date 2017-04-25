@@ -17,7 +17,6 @@ sortorder: 999
 - [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
 - [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
 - Tøj str. 68 eller 74 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
-- [Sophie la Girafe 18 cm](https://www.matas.dk/sophie-la-girafe-18-cm)
 - Arbejdsbiler fra BTOYS (Forhandles f.eks. [Babysam](http://www.babysam.dk/browseby/option/view/id/136))
 - [Hoppeko fra KREA](https://shopping.coop.dk/vare/krea-hoppeko-inkl-pumpe-sort-sjovt-hoppedyr-til-traening-af-barnets-motorik-og-balance/5707152020102)
 - [bObles Tumelesten i blå](http://www.babysam.dk/tumlesten-multi-blue)
@@ -28,8 +27,10 @@ sortorder: 999
 - [Legetøj fra Lilliputiens](https://www.lirumlarumleg.dk/pages/search-results-page?q=LILLIPUTIENS)
 - [Lilliputiens aktivitetsbog, Albert i Zoo](https://www.lirumlarumleg.dk/collections/legetoj/products/lilliputiens-aktivitetsbog-albert-i-zoo)
 - [Jellycat tøjdyr, f.eks. løve](https://www.lirumlarumleg.dk/collections/legetoj/products/jellycat-bamse-snagglebaggle-lawrence-love-35cm)
+- Knagerække med min. 5 knager (f.eks. [Kids Concept](http://www.jollyroom.dk/bornevaerelset/interior/pa-vaeggen/knager-kroge/kids-concept-fairy-knageraekke-hvid))
 - Hjælp/materialer/tegninger til at bygge et legehus
 - Vi arbejder på flere :)
+<!-- [Sophie la Girafe 18 cm](https://www.matas.dk/sophie-la-girafe-18-cm)-->
 
 <!--
 ### Sias ønskeseddel
