@@ -72,7 +72,7 @@ sortorder: 999
 - [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
 - LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
 - Pæretræ (Sort: Conference)
-- Kirsebærtræ (Sort: Stella eller Sunburst)
+- Ukrudtbrænder
 - **De alt for store**:
 - Kamerataske (LOWEPRO DSLR VIDEO FASTPACK 150 AW)
 - Nikon D500
