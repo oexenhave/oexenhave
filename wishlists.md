@@ -4,9 +4,8 @@ title: Øxenhave wishlists
 sortorder: 999
 ---
 
-### Matteo ønskeseddel
+### Matteos ønskeseddel
 
-- [Beurer FT65 multi-termometer](https://www.whiteaway.com/personlig-pleje/helbred/termometer/product/beurer-ft65-multi-termometer/)
 - [IKEA KALLAX reol, hvid](http://www.ikea.com/dk/da/catalog/products/80275887/)
 - [IKEA KALLAX indsats med 2 skuffer, hvid](http://www.ikea.com/dk/da/catalog/products/70286645/)
 - [IKEA DRÖNA kasse, hvid](http://www.ikea.com/dk/da/catalog/products/40217955/)
@@ -14,9 +13,7 @@ sortorder: 999
 - [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
 - [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
 - [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
-- Tøj str. 68 eller 74 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
-- Arbejdsbiler fra BTOYS (Forhandles f.eks. [Babysam](http://www.babysam.dk/browseby/option/view/id/136))
-- Legetøj til badet
+- Tøj str. 74 eller 80 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=62&size[]=68))
 - [Grå opbevarings kurve, 3 stk. - Done by deer](http://www.pixizoo.dk/gra-opbevarings-kurve-3-stk-done-by-deer)
 - Knagerække med min. 5 knager (f.eks. [Kids Concept](http://www.jollyroom.dk/bornevaerelset/interior/pa-vaeggen/knager-kroge/kids-concept-fairy-knageraekke-hvid))
 - Hjælp/materialer/tegninger til at bygge et legehus
@@ -28,18 +25,39 @@ sortorder: 999
 - [LEGO Disney Princess Elsas glitrende slot](https://shopping.coop.dk/vare/disney-princess-elsas-glitrende-slot-41062/5702015352437)
 - [LEGO Disney Princess Anna og Kristoffers slædeeventyr](https://shopping.coop.dk/vare/disney-princess-anna-og-kristoffers-slaedeeventyr-41066/5702015591751)
 - LEGO Friends (ikke pizzaria og supermarket)
-- Bøjlestang til udklædning
-- Prinsesseudklædningskjoler (5-6 år)
-- Spejl til væggen (min. 100x50cm)
 - [Navneskilt til døren, sort](http://www.villavejen.com/shop/navneskilte/)
-- Tøj (str 116, støvede farver)
-- Trolls (Blu-Ray)
-- Løvernes Konge (Blu-Ray)
 - Andet aldersvarende legetøj
+- Møbler og dukker til dukkehus
 - Barbie dukke ting og tilbehør og en dukke
 - Brætspil 5-6 år
 - Der var engang - for de små (ISBN: 9788700149786)
 - Legehus...
+
+### Sørens ønskeseddel
+
+- 15" plastik hjulkapsler
+- Boxershorts fra Jack&Jones (str. M)
+- Vaskeskind
+- [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
+- LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
+- Ukrudtbrænder
+- [Fitbit Wireless Sync Dongle](https://www.fitbit.com/dk/shop/accessories/wireless-sync-dongle)
+
+### Nannas ønskeseddel
+
+- Microplane rivejern
+- Bradepande (f.eks. Scanpan i 35x24 cm)
+- [Skagerak Skærebræt 33x21cm](https://skagerak.dk/da/shop/skaerebraet-33x21)
+- Skagerak - Årets nissepar 2017
+- [Philips Foodprocessor, 650W](http://www.wupti.com/produkter/husholdning/koekkenmaskine/foodprocessor/philips-foodprocessor-650w)
+- Familiebrætspil (det kunne være [Ordet fanger](http://www.bog-ide.dk/braetspil/til-hele-familien/ordet-fanger/p-332324/#!332324))
+- Sølv øreringe (klassiske i form)
+- Skechers Sport Str. 40 (sko)
+- "Calendar Girl 3" af Audrey Carlan
+- "Pigebørn" af Louisa M. Alcott
+- "Selfies" af Jussi Adler
+- [Esteé Lauder - Perfectly Clean Triple-Action Remover](http://www.esteelauder.dk/product/684/25955/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/triple-action-cleansertonermakeup-remover) (Matas)
+- [Esteé Lauder - Perfectly Clean Multi-Action Toning](http://www.esteelauder.dk/product/684/25954/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/multi-action-toning-lotionrefiner) (Matas)
 
 ### Familie ønskeseddel
 
@@ -50,33 +68,3 @@ sortorder: 999
 - [Uge plans tavle fra Bilka](https://www.bilka.dk/fritid/glastavler-og-whiteboards/naga-glastavle-magnetisk-80x60-maanedsplan/p/100061754)
 - [MALM Kommode 6 skuffer, hvid](http://www.ikea.com/dk/da/catalog/products/10214557/)
 - Sengetøj i bomuld (2x2 meter, lukning med lynlås og helst ensfarvet)
-
-### Sørens ønskeseddel
-
-- [Stærke magneter f.eks. typen Ludo](http://www.magnetz.dk/staerke-magneter-ludo-10-pak-i-farver-nova)
-- 15" plastik hjulkapsler
-- Boxershorts fra Jack&Jones (str. M)
-- Vaskeskind
-- [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
-- LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
-- Pæretræ (Sort: Conference)
-- Ukrudtbrænder
-- **De alt for store**:
-- Kamerataske (LOWEPRO DSLR VIDEO FASTPACK 150 AW)
-- Nikon D500
-- Nikon 70-200mm 2.8 VR2
-
-### Nannas ønskeseddel
-
-- Microplane rivejern
-- Magretheskåle i farver (2L eller 3L)
-- Bradepande (f.eks. Scanpan i 35x24 cm)
-- [Trip Trap Skærebræt 33x21](https://skagerak.dk/da/shop/skaerebraet-33x21)
-- Trip Trap - Årets nissepar 2016
-- [Philips Foodprocessor, 650W](http://www.wupti.com/produkter/husholdning/koekkenmaskine/foodprocessor/philips-foodprocessor-650w)
-- Familiebrætspil (det kunne være [Ordet fanger](http://www.bog-ide.dk/braetspil/til-hele-familien/ordet-fanger/p-332324/#!332324))
-- Sølv øreringe (klassiske i form)
-- Skechers Sport Str. 40 (sko)
-- "Calendar Girl 3" af Audrey Carlan
-- "Pigebørn" af Louisa M. Alcott
-- "Selfies" af Jussi Adler
