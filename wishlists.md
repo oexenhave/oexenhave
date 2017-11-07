@@ -14,6 +14,8 @@ sortorder: 999
 
 ### Sias ønskeseddel
 
+- [Børnebøger af Lars Daneskov, f.eks. Tøselus og vinkeflæsk](https://www.saxo.com/dk/forfatter/lars-daneskov_4337190
+- [Børnebøger af Sigurd Barrett, f.eks. Detektiv Dunkeldirk og julemysteriet](https://www.saxo.com/dk/forfatter/sigurd-barrett_4342315)
 - [Disney Vaiana BlueRay](http://cdon.dk/film/disney%C2%B4s_klassiker_55%3a_vaiana_(blu-ray)-39674003)
 - [LEGO Elsas magiske ispalads 41148](https://shop.lego.com/da-DK/Elsas-magiske-ispalads-41148)
 - [LEGO Disney Princess Elsas glitrende slot](https://shop.lego.com/da-DK/Elsas-glitrende-isslot-41062)
