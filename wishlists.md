@@ -8,7 +8,7 @@ sortorder: 999
 
 - [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
 - [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
-- Tøj str. 86 eller 92 (gerne fra [POMPdeLUX](https://www.pompdelux.com/da_DK/dreng?filter=on&size[]=86&size[]=92))
+- Tøj str. 92 (afdæmpede farver)
 - [Grå opbevarings kurve, 3 stk. - Done by deer](http://www.pixizoo.dk/gra-opbevarings-kurve-3-stk-done-by-deer)
 - Hjælp/materialer/tegninger til at bygge et legehus
 
@@ -32,6 +32,8 @@ sortorder: 999
 - Andet aldersvarende legetøj
 - Møbler og dukker til dukkehus
 - Brætspil 5-6 år
+- Tøj str. 122 (afdæmpede farver)
+- Strømpebukser str. 122
 - Der var engang - for de små (ISBN: 9788700149786)
 - Godnat historiebøger (i stil med Villads fra Valby)
 - Legehus...
@@ -44,6 +46,9 @@ sortorder: 999
 - LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
 - Ukrudtbrænder
 - [Fitbit Wireless Sync Dongle](https://www.fitbit.com/dk/shop/accessories/wireless-sync-dongle)
+- Stegetermometer
+- Udendørs døgnur
+- [Royal Copenhagen Riflet Contrast](https://www.royalcopenhagen.com/dk/da/Series/FlutedContrast/c/FlutedContrast)
 
 ### Nannas ønskeseddel
 
