@@ -45,23 +45,21 @@ sortorder: 999
 - [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
 - LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
 - Ukrudtbrænder
-- [Fitbit Wireless Sync Dongle](https://www.fitbit.com/dk/shop/accessories/wireless-sync-dongle)
 - Stegetermometer
 - Udendørs døgnur
 - [Royal Copenhagen Riflet Contrast](https://www.royalcopenhagen.com/dk/da/Series/FlutedContrast/c/FlutedContrast)
+- Sokker str. 41
 
 ### Nannas ønskeseddel
 
-- Bradepande (f.eks. Scanpan i 35x24 cm)
 - [Skagerak Skærebræt 33x21cm](https://skagerak.dk/da/shop/skaerebraet-33x21)
 - Skagerak - Årets nissepar 2017
-- Familiebrætspil (det kunne være [Ordet fanger](http://www.bog-ide.dk/braetspil/til-hele-familien/ordet-fanger/p-332324/#!332324))
-- "Calendar Girl 3" af Audrey Carlan
 - "Pigebørn" af Louisa M. Alcott
-- "Selfies" af Jussi Adler
 - [Esteé Lauder - Perfectly Clean Triple-Action Remover](http://www.esteelauder.dk/product/684/25955/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/triple-action-cleansertonermakeup-remover) (Matas)
 - [Esteé Lauder - Perfectly Clean Multi-Action Toning](http://www.esteelauder.dk/product/684/25954/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/multi-action-toning-lotionrefiner) (Matas)
 - [Gavekort til Zalando](https://www.zalando.dk/gavekort/)
+- Enkeltsidet vaffeljern
+- [Garmin Vivofit 3, hvid](https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-vvofit-3-White-Regular/2541706)
 
 ### Familie ønskeseddel
 
