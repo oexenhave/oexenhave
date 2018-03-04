@@ -6,10 +6,13 @@ sortorder: 999
 
 ### Matteos ønskeseddel
 
-- [Stjerne sky lampe – farve, grå, uden navn](http://www.villavejen.com/shop/stjerne-sky-lampe-farve/)
-- [Sky spejl – farve, grå](http://www.villavejen.com/shop/sky-spejl-til-boernevaerelset/)
+- [BR min første mobiltelefon](https://www.br.dk/vores-kategorier/babylegetoej-og-legetoej-til-smaa-boern/aktivitetslegetoej/br-min-foerste-mobiltelefon?id=000000000101778001)
+- [VTECH fjernbetjening](https://www.br.dk/c/vtech-fjernbetjening?id=000000000117837001)
+- [BR parkeringshus](https://www.br.dk/vores-kategorier/traelegetoej/br-traelegetoej/br-parkeringshus?id=000000000107008001)
+- [Spire Nabohus](https://www.br.dk/vores-kategorier/jul/den-mindste/nabohus?id=000000000117425001)
+- [SPIRE bilbane e.lign.](https://www.br.dk/vores-kategorier/jul/den-mindste/spire-bilbane?id=000000000110627001)
+- [DANTOY gåmotorcykel med gummihjul e.lign.](https://www.br.dk/vores-kategorier/babyudstyr-og-pleje/gaavogne-og-gaabiler/dantoy-gaamotorcykel-med-gummihjul?id=000000000102601001)
 - Tøj str. 92 (afdæmpede farver)
-- [Grå opbevarings kurve, 3 stk. - Done by deer](http://www.pixizoo.dk/gra-opbevarings-kurve-3-stk-done-by-deer)
 - Hjælp/materialer/tegninger til at bygge et legehus
 
 ### Sias ønskeseddel
