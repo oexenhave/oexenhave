@@ -12,6 +12,8 @@ sortorder: 999
 - [Spire Nabohus](https://www.br.dk/vores-kategorier/jul/den-mindste/nabohus?id=000000000117425001)
 - [SPIRE bilbane e.lign.](https://www.br.dk/vores-kategorier/jul/den-mindste/spire-bilbane?id=000000000110627001)
 - [DANTOY gåmotorcykel med gummihjul e.lign.](https://www.br.dk/vores-kategorier/babyudstyr-og-pleje/gaavogne-og-gaabiler/dantoy-gaamotorcykel-med-gummihjul?id=000000000102601001)
+- [Magnetsæt - Grippies 20 stk e.lign.](https://www.legeakademiet.dk/pi/Magnets%C3%A6t---Grippies-20-stk_3803428_60284.aspx)
+- 
 - Tøj str. 92 (afdæmpede farver)
 - Hjælp/materialer/tegninger til at bygge et legehus
 
