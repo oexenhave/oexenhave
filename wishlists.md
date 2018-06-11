@@ -28,12 +28,13 @@ sortorder: 999
 - [Loom Band startsæt](https://legefeen.dk/looms/loom-band-startsaet.html)
 - [Ting med Topmodel](https://www.br.dk/search/?q=topmodel:relevance&text=topmodel)
 - Møbler og dukker til dukkehus
-- Brætspil 5-6 år
+- Brætspil 6-7 år
 - Tøj str. 128 (afdæmpede farver)
 - Jersey kjoler fra H&M str. 122-128
 - Strømpebukser str. 128
 - Der var engang - for de små (ISBN: 9788700149786)
 - Historiebøger (i stil med Villads fra Valby)
+- [Silk clay basic ii](https://www.bog-ide.dk/produkt/130331/silk-clay-basic-ii/1999952?dfw_tracker=25840-1999952&gclid=EAIaIQobChMIr_-IxZnM2wIVSZ4bCh2s4QRzEAQYAiABEgKipvD_BwE&gclsrc=aw.ds)
 
 ### Sørens ønskeseddel
 
@@ -44,20 +45,19 @@ sortorder: 999
 - Ukrudtbrænder
 - Mælkebøttejern
 - Stegetermometer m. alarm
+- Digital DAB+ clock radio [f.eks. Pure Siesta Rise](https://www.wupti.com/produkter/tv-og-hifi/lyd/dab-radioer/pure-fmdabdab-siesta-rise-clockr)
 - Udendørs døgnur
 - [Royal Copenhagen Riflet Contrast](https://www.royalcopenhagen.com/dk/da/Series/FlutedContrast/c/FlutedContrast)
 - Sokker str. 41
 
 ### Nannas ønskeseddel
 
-- [Skagerak Skærebræt 33x21cm](https://skagerak.dk/da/shop/skaerebraet-33x21)
 - Skagerak - Årets nissepar 2017
 - "Pigebørn" af Louisa M. Alcott
-- [Esteé Lauder - Perfectly Clean Triple-Action Remover](http://www.esteelauder.dk/product/684/25955/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/triple-action-cleansertonermakeup-remover) (Matas)
-- [Esteé Lauder - Perfectly Clean Multi-Action Toning](http://www.esteelauder.dk/product/684/25954/produktkatalog/hudpleje/vlg-efter-kategori/ansigtsrensskintonic/perfectly-clean/multi-action-toning-lotionrefiner) (Matas)
-- [Gavekort til Zalando](https://www.zalando.dk/gavekort/)
-- Enkeltsidet vaffeljern
-- [Garmin Vivofit 3, hvid](https://www.proshop.dk/Smartwatch-Sportsur-Aktivitetstracker/Garmin-vvofit-3-White-Regular/2541706)
+- Træningstøj str. L
+- Små sølvøreringe
+- Gavekort til Noblesse Roskilde (f.eks. [pedicure](http://www.noblesse-spa.dk/Hander-og-Fodder/pedicure-fra-245.html))
+- Gavekort til farvning af hår hos [Hair By Sanne P](https://www.hairbysannep.dk/)
 
 ### Familie ønskeseddel
 
