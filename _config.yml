@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               'Søren Øxenhave'
-tagline:             'ScrumMaster and Solution Architect at TimeLog'
-description:         'I''m a ScrumMaster and Solution Architect at <a href="http://www.timelog.com" target="_blank">TimeLog</a>. I help the team perform and ensures good code structures.'
+tagline:             'Tech Lead at TimeLog'
+description:         'I''m a Tech Lead at <a href="http://www.timelog.com" target="_blank">TimeLog</a>. I help the team perform and ensures good code structures.'
 url:                 http://www.oexenhave.dk
 baseurl:             '/'
 paginate:            5

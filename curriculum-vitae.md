@@ -4,9 +4,24 @@ title: Curriculum Vitae
 sortorder: 60
 ---
 
+## Tech Lead at [TimeLog A/S](http://www.timelog.dk)
+
+*September 2018 – Present \| Copenhagen, Denmark*
+
+I am responsible for evangelizing the technical vision to developers and among other things:
+- Build POCs of next generation solution for benchmarking or handover to product management and developer teams
+- Maintain a 24 months technical roadmap
+- Enforce good code quality among all products that is easy to read, maintain, support and extend on
+- Build and enhance the frameworks (development, documentation, test etc.) needed to push all products towards better stability and higher patch quality – and guide the teams
+- Collect and consolidate technical requirements towards the product including platform analysis 
+- Support relevant teams and councils with insights into technical and product possibilities 
+- Run technical concept introductions into the developers
+- Maintain and develop the general development processes together with relevant teams
+- Collect and analyse insights from developers
+
 ## ScrumMaster and Solution Architect at [TimeLog A/S](http://www.timelog.dk)
 
-*January 2012 – Present \| Copenhagen, Denmark*
+*January 2012 – September 2018 \| Copenhagen, Denmark*
 
 I help the distributed TimeLog R&D Scrum team as a Certified ScrumMaster to facilitate the process and to enhance performance. I do ongoing architectural concept grooming and research for evolutional steps for the solution with four generations of technologies and 15 years of code. I carry out structural and deep refactoring and evangelize the company code style and patterns. I do additional solution management of the main IT support systems for patching, deploying and day-to-day business handling.
 
@@ -14,7 +29,7 @@ I work with continuously improving the Git branching strategy and source control
 
 I manages API and integrations to and from TimeLog Project for internal strategic project as well as enabling customers to benefit from them. I have introduced the official API documentation and build the official SDKs. I work with data analytics and building of reports for running services in Elastic and Power BI to find abuse and scalability issues. I executed projects for integrating with Dynamics NAV, Dynamics AX and Visma Administration.
 
-## Co-founder at [Lektieplan ApS](http://www.lektieplan.dk) 
+## Co-founder at [Lektieplan](http://www.lektieplan.dk) 
 
 *June 2006 – Present \| Copenhagen, Denmark*
 
