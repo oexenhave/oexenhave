@@ -8,7 +8,7 @@ sortorder: 999
 
 In short: Positive. Dad. Amateur photographer. Happy. Computer wizard. Curious. Fond of Italian food. Entrepreneur.
 
-I'm a solution architect at TimeLog. I am located in Roskilde, Denmark. I was born July 2nd 1984. I have a great
+I'm a tech lead at TimeLog. I am located in Roskilde, Denmark. I was born July 2nd 1984. I have a great
  passion for technology and at the time being especially for web technology and integrations.
 
 I'm also an amateur photographer keen to learn new techniques both with the camera, but also post-processing the photos. 
