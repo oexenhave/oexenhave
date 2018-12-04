@@ -7,31 +7,25 @@ sortorder: 999
 ### Matteos ønskeseddel
 
 - [BR parkeringshus](https://www.br.dk/black-friday-tilbud/parkeringshus-i-trae?id=000000000112592001)
-- [DANTOY gåmotorcykel med gummihjul e.lign.](https://www.br.dk/vores-kategorier/babyudstyr-og-pleje/gaavogne-og-gaabiler/dantoy-gaamotorcykel-med-gummihjul?id=000000000102601001)
-- [Magnetsæt - Grippies 20 stk e.lign.](https://www.legeakademiet.dk/pi/Magnets%C3%A6t---Grippies-20-stk_3803428_60284.aspx)
-- Tøj str. 92 (afdæmpede farver)
+- Nattøj str. 98
+- Duplo (gerne noget med biler)
+- [Fjernstyret bil](https://legeakademiet.dk/fjernstyret-bil-wheeee-mote-space1074-701236.html)
+- Ting fra Bamses Billedbog
+- Bosch værktøj til børn [F.eks.](https://www.br.dk/maerker/bosch/bosch-arbejdsbaenk-og-vaerktoej/000000000115491001.html?gclid=CjwKCAiAlvnfBRA1EiwAVOEgfPqU3Dt2FglQtaQlnyP6nSlqxmY5zI-NtCk0kaxrP3FcwjSPZ7_j3hoC3kQQAvD_BwE)
+- Generelt køretøjer
 
 ### Sias ønskeseddel
 
-- [Børnebøger af Lars Daneskov, f.eks. Tøselus og vinkeflæsk](https://www.saxo.com/dk/forfatter/lars-daneskov_4337190)
-- [Børnebøger af Sigurd Barrett, f.eks. Detektiv Dunkeldirk og julemysteriet](https://www.saxo.com/dk/forfatter/sigurd-barrett_4342315)
-- [LEGO Heartlake rideklub 41126](https://shop.lego.com/da-DK/Heartlake-rideklub-41126)
-- [LEGO Stephanies hus 41314](https://shop.lego.com/da-DK/Stephanies-hus-41314)
-- [LEGO Heartlake frossen yoghurt-butik 41320](https://shop.lego.com/da-DK/Heartlake-frossen-yoghurt-butik-41320)
-- [LEGO Skisportsstedets hytte 41323](https://shop.lego.com/da-DK/Skisportsstedets-hytte-41323)
-- [LEGO Skisportsstedets skøjtebane 41322](https://shop.lego.com/da-DK/Skisportsstedets-sk%C3%B8jtebane-41322)
-- [LEGO Vaianas ø-eventyr 41149](https://shop.lego.com/da-DK/Vaianas-%C3%B8-eventyr-41149)
-- Interaktiv kat
-- Andet aldersvarende legetøj
-- Forstørrelsesglas
-- Magnetopslagstavle + magneter
+- [Magna-Tiles](https://legeakademiet.dk/magna-tiles-transparent-100-stk-1054-04300.html?gclid=CjwKCAiAlvnfBRA1EiwAVOEgfA6vvs-ozqJQBECtfS0DO2F0mPCW7JgU4myi1yuuChDaXstkSiOvHBoCrZYQAvD_BwE)
+- LEGO Friends
 - [Loom Band startsæt](https://legefeen.dk/looms/loom-band-startsaet.html)
 - [Ting med Topmodel](https://www.br.dk/search/?q=topmodel:relevance&text=topmodel)
-- Møbler og dukker til dukkehus
-- Brætspil 6-7 år
-- Tøj str. 128 (afdæmpede farver)
-- Jersey kjoler fra H&M str. 122-128
-- Strømpebukser str. 128
+- Puzzlespil med 150 brikker
+- Dagbog med lås på 
+- Barbie tilbehør, såsom tøj, dyr, bil, scooter osv
+- Barbie Mand Ken
+- Strømpebukser 134-140 
+- Kjoler str. 128-134
 - Der var engang - for de små (ISBN: 9788700149786)
 - Historiebøger (i stil med Villads fra Valby)
 - [Silk clay basic ii](https://www.bog-ide.dk/produkt/130331/silk-clay-basic-ii/1999952?dfw_tracker=25840-1999952&gclid=EAIaIQobChMIr_-IxZnM2wIVSZ4bCh2s4QRzEAQYAiABEgKipvD_BwE&gclsrc=aw.ds)
@@ -40,27 +34,27 @@ sortorder: 999
 
 - 15" plastik hjulkapsler
 - Vaskeskind
-- [Jack&Jones Merino-uld, brun, str. M](http://www.jackjones.com/dk/da/jj/striktroejer/pullovers/merino-uld-pullover-12109976.html)
-- LED Lysarmatur til garage [f.eks. Cristel LED 25W](http://www.bauhaus.dk/el-belysning/indendors-belysning/lysarmaturer/lysarmatur-cristel-led-25w-ritter-leuchten.html)
-- Ukrudtbrænder
-- Mælkebøttejern
-- Stegetermometer m. alarm
+- Ukrudtsbrænder
+- Unbrako sæt med håndtag ([f.eks.](https://www.cykelgear.dk/vaerktoj/generelt-vaerktoj/force-unbrako-saet-holder))
+- Digitalt stegetermometer m. alarm
 - Digital DAB+ clock radio [f.eks. Pure Siesta Rise](https://www.wupti.com/produkter/tv-og-hifi/lyd/dab-radioer/pure-fmdabdab-siesta-rise-clockr)
-- Udendørs døgnur
 - [Royal Copenhagen Riflet Contrast](https://www.royalcopenhagen.com/dk/da/Series/FlutedContrast/c/FlutedContrast)
 - Sokker str. 41
+- Boxershorts str. M
 
 ### Nannas ønskeseddel
 
-- Skagerak - Årets nissepar 2017
-- "Pigebørn" af Louisa M. Alcott
-- Træningstøj str. L
-- Små sølvøreringe
+- Skagerak - Årets nissepar 2018
+- Små sølvøreringe i enkelt design fra fx Izabel Camille
 - Gavekort til Noblesse Roskilde (f.eks. [pedicure](http://www.noblesse-spa.dk/Hander-og-Fodder/pedicure-fra-245.html))
 - Gavekort til farvning af hår hos [Hair By Sanne P](https://www.hairbysannep.dk/)
+- Lash queen sexy blacks Mascara (fra Helena Rubenstein)
+- Sorte sokker str. 40-41
+- Strømpebukser sort str. L/XL 
 
 ### Familie ønskeseddel
 
-- [Oral-B Genius 9000](https://www.whiteaway.com/personlig-pleje/skoenhed/tandpleje/eltandboerste/product/oral-b-genius-9000/)
-- [Uge plans tavle fra Bilka](https://www.bilka.dk/fritid/glastavler-og-whiteboards/naga-glastavle-magnetisk-80x60-maanedsplan/p/100061754)
-- Sengetøj i bomuld (2x2 meter, lukning med lynlås og helst ensfarvet)
+- Sengetøj i bomuld (2x2 meter, ensfarvet)
+- [Eva Solo skærebræt](https://www.kitchenone.dk/produkt/eva-solo-skaerebraet-graa/)
+- [Jamie Oliver - Wokpande 30CM Hard Anodised](https://hvidevarebanditten.dk/gryder-og-pander/1631-jamie-oliver-wokpande-30cm-hard-anodised-32cm-3stk-pa-lager.html?fbclid=IwAR3Rwz-17rO0lIHrwWV8Ajs-v3IMXD_hEXHPIHzSHG46Gr9xhx7IpuWLDf4)
+- [Jamie Oliver - Everyday SS Sauterpande](https://www.kitchenone.dk/produkt/jamie-oliver-everyday-ss-sauterpande/?gclid=CjwKCAiA0O7fBRASEiwAYI9QAkYtBimpx5ehq-YYvQz4-RgpjXA7ZbJgfXwu_NfIAiS8jTMl_Kt-9RoC6p4QAvD_BwE&fbclid=IwAR0GUwJBNr51oY8mAHATOmAIVN8m5yBK3R94KuQe5XAkg8LcbBb_F5lTWns)
