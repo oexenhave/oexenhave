@@ -35,7 +35,7 @@ sortorder: 999
 - 15" plastik hjulkapsler
 - Vaskeskind
 - Ukrudtsbrænder
-- Unbrako sæt med håndtag ([f.eks.](https://www.cykelgear.dk/vaerktoj/generelt-vaerktoj/force-unbrako-saet-holder))
+- Unbrako sæt med håndtag ([f.eks.](https://www.cykelgear.dk/vaerktoj/generelt-vaerktoj/unior-unbrako-nogle-saet-7-dele))
 - Digitalt stegetermometer m. alarm
 - Digital DAB+ clock radio [f.eks. Pure Siesta Rise](https://www.wupti.com/produkter/tv-og-hifi/lyd/dab-radioer/pure-fmdabdab-siesta-rise-clockr)
 - [Royal Copenhagen Riflet Contrast](https://www.royalcopenhagen.com/dk/da/Series/FlutedContrast/c/FlutedContrast)
@@ -46,8 +46,6 @@ sortorder: 999
 
 - Skagerak - Årets nissepar 2018
 - Små sølvøreringe i enkelt design fra fx Izabel Camille
-- Gavekort til Noblesse Roskilde (f.eks. [pedicure](http://www.noblesse-spa.dk/Hander-og-Fodder/pedicure-fra-245.html))
-- Gavekort til farvning af hår hos [Hair By Sanne P](https://www.hairbysannep.dk/)
 - Lash queen sexy blacks Mascara (fra Helena Rubenstein)
 - Sorte sokker str. 40-41
 - Strømpebukser sort str. L/XL 
@@ -56,5 +54,6 @@ sortorder: 999
 
 - Sengetøj i bomuld (2x2 meter, ensfarvet)
 - [Eva Solo skærebræt](https://www.kitchenone.dk/produkt/eva-solo-skaerebraet-graa/)
-- [Jamie Oliver - Wokpande 30CM Hard Anodised](https://hvidevarebanditten.dk/gryder-og-pander/1631-jamie-oliver-wokpande-30cm-hard-anodised-32cm-3stk-pa-lager.html?fbclid=IwAR3Rwz-17rO0lIHrwWV8Ajs-v3IMXD_hEXHPIHzSHG46Gr9xhx7IpuWLDf4)
+- [Jamie Oliver - Wokpande 30cm Hard Anodised](https://hvidevarebanditten.dk/gryder-og-pander/1631-jamie-oliver-wokpande-30cm-hard-anodised-32cm-3stk-pa-lager.html?fbclid=IwAR3Rwz-17rO0lIHrwWV8Ajs-v3IMXD_hEXHPIHzSHG46Gr9xhx7IpuWLDf4)
 - [Jamie Oliver - Everyday SS Sauterpande](https://www.kitchenone.dk/produkt/jamie-oliver-everyday-ss-sauterpande/?gclid=CjwKCAiA0O7fBRASEiwAYI9QAkYtBimpx5ehq-YYvQz4-RgpjXA7ZbJgfXwu_NfIAiS8jTMl_Kt-9RoC6p4QAvD_BwE&fbclid=IwAR0GUwJBNr51oY8mAHATOmAIVN8m5yBK3R94KuQe5XAkg8LcbBb_F5lTWns)
+- [Kärcher vinduesvasker WV 2](https://www.bauhaus.dk/karcher-vinduesvasker-wv-2-premium-gul.html)
