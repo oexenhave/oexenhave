@@ -19,7 +19,7 @@ sortorder: 999
 - [Magna-Tiles](https://legeakademiet.dk/magna-tiles-transparent-100-stk-1054-04300.html?gclid=CjwKCAiAlvnfBRA1EiwAVOEgfA6vvs-ozqJQBECtfS0DO2F0mPCW7JgU4myi1yuuChDaXstkSiOvHBoCrZYQAvD_BwE)
 - LEGO Friends
 - [Loom Band startsæt](https://legefeen.dk/looms/loom-band-startsaet.html)
-- [Ting med Topmodel](https://www.br.dk/search/?q=topmodel:relevance&text=topmodel)
+- [Ting med Topmodel](https://www.br.dk/search?q=topmodel)
 - Puzzlespil med 150 brikker
 - Dagbog med lås på 
 - Barbie tilbehør, såsom tøj, dyr, bil, scooter osv
